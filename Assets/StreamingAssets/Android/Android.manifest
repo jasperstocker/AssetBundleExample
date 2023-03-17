@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2467239616
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spherescene
+      Dependencies: {}
+    Info_1:
+      Name: cubescene
+      Dependencies: {}
